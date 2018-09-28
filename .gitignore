@@ -1,0 +1,12 @@
+# Objects
+*.o
+*.obj
+
+# Firmware binary
+*.hex
+
+# Ignore vim swap
+*.swp
+
+# macOS specific
+.DS_Store
